@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  We’ve launched the most beautiful component library for Angular, Vue.js, React and HTML.
-</p>
-
-<p align="center">
   <span>Built-in performance</span>
   ·
   <span>Professionally designed</span>
