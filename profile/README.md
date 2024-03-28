@@ -2,10 +2,28 @@
 
 <p align="center">
   <a href="https://tabler.io/">
-    <img src="https://ui.smotrowrelated.com/images/logo.svg" alt="Smotrow related" width="92" height="24">
+    <img src="https://ui.smotrowrelated.com/favicon.jpeg" alt="Smotrow related" width="160" height="160">
   </a>
 </p>
 
 <p align="center">
-  With our collection of pre-built components and dedicated support team, the platform significantly cuts down development time, enabling our customers to create outstanding digital experiences effortlessly. Our constantly expanding suite includes components for React, Next.js, React Native, Flutter, Angular, JavaScript, and Vue, simplifying the development process for developers worldwide.
+  We’ve launched the most beautiful component library for Angular, Vue.js, React and HTML.
+</p>
+
+<p align="center">
+  <span>Built-in performance</span>
+  ·
+  <span>Professionally designed</span>
+  ·
+  <span>Dedicated support</span>
+  ·
+  <span>Frequent updates</span>
+  ·
+  <span>Cutting-edge functionality</span>
+  ·
+  <span>Increases productivity</span>
+  ·
+  <span>Scalable components</span>
+  ·
+  <span>Flexible licensing</span>
 </p>
